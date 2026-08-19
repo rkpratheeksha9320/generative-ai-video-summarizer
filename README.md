@@ -5,7 +5,7 @@ A Generative AI-based web application that takes a **YouTube video URL**, retrie
 
 ## 📸 Application Screenshot
 
-![Generative AI Video Summarizer](video summarizer .png)
+![Generative AI Video Summarizer](screenshot.png)
 
 The application is built using **Python** and **Gradio**.
 
